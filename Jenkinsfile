@@ -1,6 +1,8 @@
 pipeline{
     agent any
-
+    tools {
+        nodejs 'nodejs'
+    }
     environment{
         VERCEL_TOKEN=credentials('VERCEL_TOKEN')
     }
