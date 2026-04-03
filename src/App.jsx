@@ -20,7 +20,7 @@ function App() {
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
-          <h1>Hello Everyone</h1>
+          <h1>Hello Everyone yes</h1>
         </div>
         <button
           className="counter"
